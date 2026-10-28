@@ -2,40 +2,20 @@
 
 **Software engineer from Málaga, Spain.** I studied Software Engineering at the University of Málaga and worked as a backend intern at **NTT DATA**. I mainly build backends with **Java / Spring Boot** and **Python / FastAPI**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-luque-montiel-9202b93b1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marluqmon8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--luque--montiel-0A66C2?style=flat&logo=linkedin&labelColor=0D1117)](https://www.linkedin.com/in/marcos-luque-montiel-9202b93b1)
+[![Email](https://img.shields.io/badge/Email-marluqmon8%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:marluqmon8@gmail.com)
 
 ---
 
 ### Tech stack
 
-**Backend**<br>
-![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-161B22?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![JPA](https://img.shields.io/badge/JPA-161B22?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-161B22?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00)
-![Drupal](https://img.shields.io/badge/Drupal-161B22?style=for-the-badge&logo=drupal&logoColor=0678BE)
-
-**Databases**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![PostGIS](https://img.shields.io/badge/PostGIS-161B22?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-**Frontend, mobile and tools**<br>
-![Flutter](https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Android](https://img.shields.io/badge/Android-161B22?style=for-the-badge&logo=android&logoColor=3DDC84)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
-
-**University projects**<br>
-![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Vue](https://img.shields.io/badge/Vue-161B22?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Unity](https://img.shields.io/badge/Unity-161B22?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-161B22?style=for-the-badge)
+| Area | Technologies |
+|---|---|
+| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="18" height="18" alt=""> Java &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="18" height="18" alt=""> Spring Boot &nbsp;·&nbsp; JPA &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="18" height="18" alt=""> Python &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" width="18" height="18" alt=""> FastAPI &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/sqlalchemy/sqlalchemy-original.svg" width="18" height="18" alt=""> SQLAlchemy &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/drupal/drupal-original.svg" width="18" height="18" alt=""> Drupal |
+| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="18" height="18" alt=""> PostgreSQL &nbsp;·&nbsp; PostGIS &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="18" height="18" alt=""> MySQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="18" height="18" alt=""> MongoDB |
+| **Frontend &amp; mobile** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flutter/flutter-original.svg" width="18" height="18" alt=""> Flutter &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/android/android-original.svg" width="18" height="18" alt=""> Android &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="18" height="18" alt=""> JavaScript |
+| **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="18" height="18" alt=""> Git |
+| **University projects** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="18" height="18" alt=""> Docker &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vuejs/vuejs-original.svg" width="18" height="18" alt=""> Vue &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="18" height="18" alt=""> React &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/unity/888888" width="18" height="18" alt=""> Unity &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="18" height="18" alt=""> C# |
 
 ---
 
